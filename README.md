@@ -5,4 +5,4 @@ Matlab scripts to implement the stochastic fractional crystallization (FC) and r
 ## Usage
 
 The Matlab script Whatever.m loads dMZr outputs calculated offline from numerical outputs of the software [Magma Chamber Simulator](https://mcs.geol.ucsb.edu/code)
-The zircon crystallization probability (p_Z_r)
+([mailto:ltavazzani@smu.edu]).
