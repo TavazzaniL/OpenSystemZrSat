@@ -1,0 +1,38 @@
+References for ID-TIMS zircon age distributions:
+
+[1] Sesia Caldera rhyolites: Karakas, O., et al., 2019, The pace of crustal-scale magma accretion and differentiation beneath silicic caldera volcanoes: Geology, v. 47, p. 1–5, doi:10.1130/G46020.1.
+
+[2] Bergell pluton: Samperton, K.M., Schoene, B., Cottle, J.M., Keller, C.B., Crowley, J.L., and Schmitz, M.D., 2015, Magma emplacement, differentiation and cooling in the middle crust: Integrated zircon geochronological–geochemical constraints from the Bergell Intrusion, Central Alps: Chemical Geology, v. 417, p. 322–340, doi:10.1016/j.chemgeo.2015.10.024. 
+
+[3] Mt. Capanne pluton: Barboni, M., Annen, C., and Schoene, B., 2015, Evaluating the construction and evolution of upper crustal magma reservoirs with coupled U/Pb zircon geochronology and thermal modeling: A case study from the Mt. Capanne pluton (Elba, Italy): Earth and Planetary Science Letters, v. 432, p. 436–448, doi:10.1016/j.epsl.2015.09.043.
+
+[4] Mt. Givens granodiorite: Frazer, R. E., Coleman, D. S., and  Mills, R. D., 2014, Zircon U-Pb geochronology of the Mount Givens Granodiorite: Implications for the genesis of large volumes of eruptible magma: Journal of Geophysical Research Solid Earth, v. 119, p. 2907–2924, doi:10.1002/2013JB010716.
+
+[5] Mt Stuart Intrusive complex and Tenpeak pluton: Matzel, J.E.P., Bowring, S.A., Miller, R.B., 2007, Time scales of pluton construction at differing crustal levels: Examples from the Mount Stuart and Tenpeak intrusions, North Cascades, Washington: Geological Society of America Bulletin, v. 118, p. 1412-1430, doi:10.1130/B25923.1.
+
+[6] Tuolomne Intrusive suite: Coleman, D.S., Gray, W., and Glazner, A.F., 2004, Rethinking the emplacement and evolution of zoned plutons: Geochronologic evidence for incremental assembly of the Tuolumne Intrusive Suite, California: Geology, v. 32, p. 433–436, doi:10.1130/G20220.1.
+
+[7] John Muir Intrusive suite: Davis, J.W., Coleman, D.S., Gracely, J.T., Gaschnig, R., and Stearns, M., 2012, Magma accumulation rates and thermal histories of plutons of the Sierra Nevada batholith, CA: Contributions to Mineralogy and Petrology, v. 163, p. 449–465, doi:10.1007/s00410-011-0683-7.
+
+[8] Lago della Vacca: Schoene, B., Schaltegger, U., Brack, P., Latkoczy, C., Stracke, A., and Günther, D., 2012, Rates of magma differentiation and emplacement in a ballooning pluton recorded by U-Pb TIMS-TEA, Adamello batholith, Italy: Earth and Planetary Science Letters, v. 355–356, p.162-173, doi:10.1016/j.epsl.2012.08.019.
+
+[9] Val Fredda Igneous Complex: Broderick, C., Wotzlaw, J.F., Frick, D.A., Gerdes, A., Ulianov, A., Günther, D., and Schaltegger, U., 2015, Linking the thermal evolution and emplacement history of an upper-crustal pluton to its lower-crustal roots using zircon geochronology and geochemistry (southern Adamello batholith, N. Italy): Contributions to Mineralogy and Petrology, v. 170, p. 1–17, doi:10.1007/s00410-015-1184-x (erratum available at http://dx.doi.org/10.1007/s00410-016-1240-1).
+
+[10] La Gloria pluton: Gutiérrez, F., et al., 2018, Lateral magma propagation during the emplacement of La Gloria Pluton, central Chile: Geology, v. 46, p. 1051–1054, doi:10.1130/G45361.1
+
+[11] Golden Horn Batolith: Eddy, M.P., Bowring, S.A., Miller, R.B., and Tepper, J.H., 2016, Rapid assembly and crystallization of a fossil large-volume silicic magma chamber: Geology, v. 44, p. 331–334, doi:10.1130/G37631.1.
+
+[12] Turkey Creek Caldera and intracaldera intrusions: Deering, C.D., Keller, B., Schoene, B., Bachmann, O., Beane, R., and Ovtcharova, M., 2016, Zircon record of the plutonic-volcanic connection and protracted rhyolite melt evolution: Geology, v. 44, p. 267–270, doi:10.1130/G37539.1.
+
+[13] Latir Volcanic field and intrusives: Tappa, M.J., Coleman, D.S., Mills, R.D., and Samperton, K.M., 2011, The plutonic record of a silicic ignimbrite from the Latir volcanic field, New Mexico: Geochemistry, Geophysics, Geosystems, v. 12, Q10011, doi:10.1029/2011GC003700.
+
+[14] Kneeling Nun Tuff: Szymanowski, D., Ellis, B.S., Wotzlaw, J.F., and Bachmann, O., 2019, Maturation and rejuvenation of a silicic magma reservoir: High-resolution chronology of the Kneeling Nun Tuff: Earth and Planetary Science Letters, v. 510, p. 103–115, doi:10.1016/j.epsl.2019.01.007.
+
+[15] Huckleberry Ridge Tuff: Singer, B.S., Jicha, B.R., Condon, D.J., Macho, A.S., Hoffman, K.A., Dierkhising, J., Brown, M.C., Feinberg, J.M., and Kidane, T., 2014, Precise ages of the Réunion event and Huckleberry Ridge excursion: Episodic clustering of geomagnetic instabilities and the dynamics of flow within the outer core: Earth and Planetary Science Letters, v. 405, doi:10.1016/j.epsl.2014.08.011. Wotzlaw, J.-F., Bindeman, I.N., Stern, R.A., D’Abzac, F.-X., and Schaltegger, U., 2015, Rapid heterogeneous assembly of multiple magma reservoirs prior to Yellowstone supereruptions: Scientific Reports, v. 5, 14026, doi:10.1038/srep14026. 
+
+[16] Lava Creek Tuff: Matthews N., Vazquez, J., and Calvert, A., 2015, Age of the Lava Creek supereruption and magma chamber assembly at Yellowstone based on 40Ar/39Ar and U–Pb dating of sanidine and zircon crystals: Geochemistry, Geophysics, Geosystems, v. 16, p. 1–21. Wotzlaw, J.-F., Bindeman, I.N., Stern, R.A., D’Abzac, F.-X., and Schaltegger, U., 2015, Rapid heterogeneous assembly of multiple magma reservoirs prior to Yellowstone supereruptions: Scientific Reports, v. 5, 14026, doi:10.1038/srep14026. 
+
+[17] Fish Canyon Tuff: Wotzlaw, J.-F., Schaltegger, U., Frick, D.A., Dungan, M.A., Gerdes, A., and Günther, D., 2013, Tracking the evolution of large-volume silicic magma reservoirs from assembly to supereruption: Geology, v. 41, p. 867–870, doi:10.1130/G34366.1.
+
+
+
