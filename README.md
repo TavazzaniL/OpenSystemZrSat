@@ -4,7 +4,7 @@ Matlab scripts to implement the stochastic fractional crystallization (FC) and r
 
 ## Usage
 
-The folder [SyntheticZirconDistribution](SyntheticZirconDistribution/) includes necessary scripts and data files necessary to obtain randomly sampled synthetic zircon age spectra from synthetic zircon crystallization distributions. 
+The folder [SyntheticZirconDistribution](SyntheticZirconDistribution/) includes scripts and data files necessary to obtain randomly sampled synthetic zircon age spectra from synthetic zircon crystallization distributions. 
 
 In this folder, the files [dZr_Matlab_set2.xlsx](SyntheticZirconDistribution/dZr_Matlab_set2.xlsx) and [dZr_Matlab_set2_cutoff.xlsx](SyntheticZirconDistribution/dZr_Matlab_set2_cutoff.xlsx) contain zircon crystallization distributions for FC and RFC crystallization simulations, which are calculated offline from thermodynamic parameters output of the software [Magma Chamber Simulator](https://mcs.geol.ucsb.edu/code). 
 
