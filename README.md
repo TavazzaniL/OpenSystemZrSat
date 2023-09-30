@@ -1,6 +1,6 @@
 # OpenSystemZrSat.m
 
-Matlab scripts to implement the stochastic fractional crystallization (FC) and recharge fraction crystallization (RFC) zircon saturation model from Tavazzani et al. (in revision).
+Matlab scripts to implement the stochastic fractional crystallization (FC) and recharge fraction crystallization (RFC) zircon saturation model from Tavazzani et al. (in press).
 
 ## Usage
 
@@ -14,4 +14,4 @@ The folder [LiteratureDatasets](LiteratureDatasets/) includes a compilation of C
 
 New datasets of interest can be added as comma-separated files in [LiteratureDatasets](LiteratureDatasets/). To load and and calculate KDEs of newly added zircon dates, the script [IDTIMS_DataLoad_KDE.m](LiteratureDatasets/IDTIMS_DataLoad_KDE.m) requires editing. 
 
-For info and suggestions you can contact Lorenzo at [ltavazzani@smu.edu](mailto:ltavazzani@smu.edu).
+For info and suggestions you can contact Lorenzo at [lorenzo.tavazzani@erdw.ethz.ch](mailto:lorenzo.tavazzani@erdw.ethz.ch).
